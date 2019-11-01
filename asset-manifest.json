@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cameratest/static/css/main.34de6062.chunk.css",
+    "main.js": "/cameratest/static/js/main.d113a6d9.chunk.js",
+    "main.js.map": "/cameratest/static/js/main.d113a6d9.chunk.js.map",
+    "runtime-main.js": "/cameratest/static/js/runtime-main.755a59fb.js",
+    "runtime-main.js.map": "/cameratest/static/js/runtime-main.755a59fb.js.map",
+    "static/js/2.35560bc0.chunk.js": "/cameratest/static/js/2.35560bc0.chunk.js",
+    "static/js/2.35560bc0.chunk.js.map": "/cameratest/static/js/2.35560bc0.chunk.js.map",
+    "index.html": "/cameratest/index.html",
+    "precache-manifest.53b55f8834cea69d22fd686968ea0cda.js": "/cameratest/precache-manifest.53b55f8834cea69d22fd686968ea0cda.js",
+    "service-worker.js": "/cameratest/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/cameratest/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.755a59fb.js",
+    "static/js/2.35560bc0.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.d113a6d9.chunk.js"
+  ]
+}
